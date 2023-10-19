@@ -1,0 +1,13 @@
+D:\DesafioBlindando\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.exe
+D:\DesafioBlindando\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+D:\DesafioBlindando\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+D:\DesafioBlindando\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+D:\DesafioBlindando\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.dll
+D:\DesafioBlindando\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+D:\DesafioBlindando\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesafioBlindando\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+D:\DesafioBlindando\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+D:\DesafioBlindando\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+D:\DesafioBlindando\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.dll
+D:\DesafioBlindando\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+D:\DesafioBlindando\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache
